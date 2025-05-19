@@ -23,12 +23,19 @@ Desenvolver uma estação de monitoramento de cheias utilizando o microcontrolad
 
 ## 🛠️ Funcionalidades Obrigatórias  
 ✅ Leitura periódica de sensores analógicos via ADC.
+
 ✅ Processamento dos dados com decisão de estado (NORMAL ou ALERTA).
+
 ✅ Comunicação entre tarefas usando queues do FreeRTOS.
+
 ✅ Controle de LED RGB via PWM para indicar o estado do sistema.
+
 ✅ Acionamento sonoro com buzzer em caso de alerta.
+
 ✅ Feedback visual animado em matriz WS2818B.
+
 ✅ Exibição dos valores e status no display OLED via I2C.
+
 ✅ Arquitetura modular com múltiplas tarefas FreeRTOS
 
 ## 📦 Componentes Utilizados  
