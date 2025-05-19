@@ -10,7 +10,7 @@
 - [👨‍💻 Autor](#-autor)  
 
 ## 📹 Demonstração  
-[clique aqui para acessar o vídeo](https://drive.google.com/file/d/1KGhIHI-ZHLxwJsvF2xodwm_9o59Hkp7k/view?usp=drive_link)
+[clique aqui para acessar o vídeo](https://youtu.be/BChv2_dZzSU)
  
 Conteúdo do vídeo:  
 - Apresentação do projeto  
